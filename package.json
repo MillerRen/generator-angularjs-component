@@ -1,14 +1,14 @@
 {
-  "name": "generator-ng-component",
-  "version": "0.0.10",
-  "description": "Yeoman generator",
+  "name": "generator-angularjs-component",
+  "version": "1.0.0",
+  "description": "Yeoman generator for angularjs components",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "DaftMonk/generator-ng-component",
+  "repository": "https://github.com/MillerRen/generator-angularjs-component.git",
   "author": {
-    "name": "Tyler Henkel",
+    "name": "Miller Ren",
     "email": "",
-    "url": "https://github.com/DaftMonk"
+    "url": "https://github.com/MillerRen/generator-angularjs-component.git"
   },
   "engines": {
     "node": ">=0.10.0"
