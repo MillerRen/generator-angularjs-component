@@ -10,16 +10,16 @@
 
 ### Yeoman Generators
 
-To install generator-ng-component from npm, run:
+To install generator-angularjs-component from npm, run:
 
 ```
-$ npm install -g generator-ng-component
+$ npm install -g generator-angularjs-component
 ```
 
 Finally, initiate the generator:
 
 ```
-$ yo ng-component
+$ yo angularjs-component
 ```
 ## License
 
